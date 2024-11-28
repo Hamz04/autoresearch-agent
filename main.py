@@ -1,1 +1,40 @@
-IiIiQXV0b1Jlc2VhcmNoIEFnZW50IC0gQXV0b25vbW91cyBMTE0tcG93ZXJlZCByZXNlYXJjaCBhZ2VudC4iIiIKaW1wb3J0IG9zLCBhc3luY2lvCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCmltcG9ydCBodHRweAoKYXN5bmMgZGVmIHdlYl9zZWFyY2gocXVlcnk6IHN0ciwgbnVtX3Jlc3VsdHM6IGludCA9IDUpIC0+IGxpc3RbZGljdF06CiAgICBhc3luYyB3aXRoIGh0dHB4LkFzeW5jQ2xpZW50KCkgYXMgaHR0cDoKICAgICAgICByZXNwID0gYXdhaXQgaHR0cC5nZXQoCiAgICAgICAgICAgICJodHRwczovL2FwaS5kdWNrZHVja2dvLmNvbS8iLAogICAgICAgICAgICBwYXJhbXM9eyJxIjogcXVlcnksICJmb3JtYXQiOiAianNvbiIsICJub19odG1sIjogMSwgInNraXBfZGlzYW1iaWciOiAxfSwKICAgICAgICAgICAgdGltZW91dD0xMC4wCiAgICAgICAgKQogICAgICAgIGRhdGEgPSByZXNwLmpzb24oKQogICAgICAgIHJlc3VsdHMgPSBbXQogICAgICAgIGlmIGRhdGEuZ2V0KCJBYnN0cmFjdFRleHQiKToKICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoeyJ0aXRsZSI6IGRhdGEuZ2V0KCJIZWFkaW5nIiwgcXVlcnkpLCAic25pcHBldCI6IGRhdGFbIkFic3RyYWN0VGV4dCJdLCAidXJsIjogZGF0YS5nZXQoIkFic3RyYWN0VVJMIiwgIiIpfSkKICAgICAgICBmb3IgciBpbiBkYXRhLmdldCgiUmVsYXRlZFRvcGljcyIsIFtdKVs6bnVtX3Jlc3VsdHNdOgogICAgICAgICAgICBpZiBpc2luc3RhbmNlKHIsIGRpY3QpIGFuZCByLmdldCgiVGV4dCIpOgogICAgICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoeyJ0aXRsZSI6IHIuZ2V0KCJUZXh0IiwiIilbOjYwXSwgInNuaXBwZXQiOiByLmdldCgiVGV4dCIsIiIpLCAidXJsIjogci5nZXQoIkZpcnN0VVJMIiwiIil9KQogICAgICAgIHJldHVybiByZXN1bHRzWzpudW1fcmVzdWx0c10KCmFzeW5jIGRlZiBydW5fYWdlbnQodG9waWM6IHN0cikgLT4gZGljdDoKICAgIHByaW50KGYiW0F1dG9SZXNlYXJjaF0gUmVzZWFyY2hpbmc6IHt0b3BpY30iKQogICAgcmVzdWx0cyA9IGF3YWl0IHdlYl9zZWFyY2godG9waWMpCiAgICByZXBvcnRfbGluZXMgPSBbZiIjIFJlc2VhcmNoIFJlcG9ydDoge3RvcGljfSIsIGYiKkdlbmVyYXRlZDoge2RhdGV0aW1lLm5vdygpLmlzb2Zvcm1hdCgpfSoiLCAiIl0KICAgIGZvciBpLCByIGluIGVudW1lcmF0ZShyZXN1bHRzLCAxKToKICAgICAgICByZXBvcnRfbGluZXMuYXBwZW5kKGYiIyMgW3tpfV0ge3JbJ3RpdGxlJ119IikKICAgICAgICByZXBvcnRfbGluZXMuYXBwZW5kKHJbJ3NuaXBwZXQnXSkKICAgICAgICByZXBvcnRfbGluZXMuYXBwZW5kKGYiU291cmNlOiB7clsndXJsJ119IikKICAgICAgICByZXBvcnRfbGluZXMuYXBwZW5kKCIiKQogICAgcmVwb3J0ID0gIlxuIi5qb2luKHJlcG9ydF9saW5lcykKICAgIG9zLm1ha2VkaXJzKCJyZXBvcnRzIiwgZXhpc3Rfb2s9VHJ1ZSkKICAgIGZuYW1lID0gZiJyZXBvcnRzL3t0b3BpYy5yZXBsYWNlKCcgJywnXycpWzo0MF19X3tkYXRldGltZS5ub3coKS5zdHJmdGltZSgnJVklbSVkXyVIJU0lUycpfS5tZCIKICAgIHdpdGggb3BlbihmbmFtZSwgInciKSBhcyBmOgogICAgICAgIGYud3JpdGUocmVwb3J0KQogICAgcHJpbnQoZiJbQXV0b1Jlc2VhcmNoXSBTYXZlZCB0byB7Zm5hbWV9IikKICAgIHJldHVybiB7InRvcGljIjogdG9waWMsICJzb3VyY2VzIjogbGVuKHJlc3VsdHMpLCAiZmlsZSI6IGZuYW1lLCAicmVwb3J0IjogcmVwb3J0fQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGltcG9ydCBzeXMKICAgIHRvcGljID0gIiAiLmpvaW4oc3lzLmFyZ3ZbMTpdKSBvciAiYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UgdHJlbmRzIDIwMjUiCiAgICByZXN1bHQgPSBhc3luY2lvLnJ1bihydW5fYWdlbnQodG9waWMpKQogICAgcHJpbnQocmVzdWx0WyJyZXBvcnQiXSkK
+"""AutoResearch Agent - Autonomous LLM-powered research agent."""
+import os, asyncio
+from datetime import datetime
+import httpx
+
+async def web_search(query: str, num_results: int = 5) -> list[dict]:
+    async with httpx.AsyncClient() as http:
+        resp = await http.get(
+            "https://api.duckduckgo.com/",
+            params={"q": query, "format": "json", "no_html": 1, "skip_disambig": 1},
+            timeout=10.0
+        )
+        data = resp.json()
+        results = []
+        if data.get("AbstractText"):
+            results.append({"title": data.get("Heading", query), "snippet": data["AbstractText"], "url": data.get("AbstractURL", "")})
+        for r in data.get("RelatedTopics", [])[:num_results]:
+            if isinstance(r, dict) and r.get("Text"):
+                results.append({"title": r.get("Text","")[:60], "snippet": r.get("Text",""), "url": r.get("FirstURL","")})
+        return results[:num_results]
+
+async def run_agent(topic: str) -> dict:
+    print(f"[AutoResearch] Researching: {topic}")
+    results = await web_search(topic)
+    lines = [f"# Research Report: {topic}", f"*Generated: {datetime.now().isoformat()}*", ""]
+    for i, r in enumerate(results, 1):
+        lines += [f"## [{i}] {r['title']}", r['snippet'], f"Source: {r['url']}", ""]
+    report = "\n".join(lines)
+    os.makedirs("reports", exist_ok=True)
+    fname = f"reports/{topic.replace(' ','_')[:40]}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"
+    with open(fname, "w") as f:
+        f.write(report)
+    print(f"[AutoResearch] Saved to {fname}")
+    return {"topic": topic, "sources": len(results), "file": fname, "report": report}
+
+if __name__ == "__main__":
+    import sys
+    topic = " ".join(sys.argv[1:]) or "artificial intelligence trends 2025"
+    result = asyncio.run(run_agent(topic))
+    print(result["report"])
